@@ -1,0 +1,36 @@
+
+#escreva{
+    border-radius: 10%;
+    background-color: #c2e7ff;
+    padding: 0%;
+    width: 85%;
+    border-radius: 20px 20px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.imagemgmail{
+    display: flex;
+    margin-left: 10PX;
+}
+
+.barra{
+    margin: auto;
+    margin-left: 150px;
+}
+
+.formulario{
+    display: flex;
+    width: 100%;
+}
+
+.pesquisa{
+    margin-left: 1px !important;
+}
+
+.emails{
+    padding: 0px!important;
+}
+
+
